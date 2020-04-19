@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /amp/*
+Disallow:
+Sitemap: https://vinczer.github.io/thesis-amp/sitemap.xml
